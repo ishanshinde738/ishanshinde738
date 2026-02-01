@@ -7,7 +7,7 @@
 * 🔭 I’m currently working on a **Web-based Visitor Management System**
 * 🌱 I’m currently learning **AL AND ML**
 * 💬 Ask me about **Python, Face Recognition (Dlib), and Web Dev**
-* 📫 How to reach me: ishanshinde738@gail.com
+* 📫 How to reach me: ishanshinde738@gmail.com
 
 ---
 
@@ -34,10 +34,10 @@
 
 ### 🌐 Socials
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank">
+  <a href="https://linkedin.com/in/ishan-shinde-12345" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ishan-linkedin" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="blank">
+  <a href="mailto:ishanshinde738@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ishan-gmail" />
   </a>
   <a href="https://github.com/ishanshinde738" target="blank">
